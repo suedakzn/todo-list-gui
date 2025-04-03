@@ -11,3 +11,5 @@ Amacım hem temel Python bilgimi uygulamak hem de kullanıcı dostu bir grafik a
 - 🧾 Görevler yapılacak ve tamamlanan olarak ayrı listeleniyor
 - 📊 Görev sayacı: kaç görev kaldı, kaç tanesi tamamlandı
 - 🔘 Renkli butonlar ve sade, kullanışlı arayüz
+
+## 🖼️ Ekran Görüntüsü
